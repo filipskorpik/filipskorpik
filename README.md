@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ilipskorpik.
+- 👋 Hi, I’m Filip Skorpik.
 - 👀 I’m interested in HTML and CSS coding.
 - 🌱 I’m currently learning advanced CSS.
 - 💞️ I’m looking to collaborate on Web development.
