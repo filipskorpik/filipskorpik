@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Filip Skorpik.
-- 👀 I’m interested in HTML and CSS coding.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on Web development.
+- 👀 I’m interested in React.
+- 💞️ I’m looking to collaborate on Front-end development.
 - 📫 You can contact me on FilipSkorpik.job@gmail.com
 
 <!---
